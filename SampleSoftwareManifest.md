@@ -1,1 +1,7 @@
-#Sample Software Manifest & Sample Policy Document
+#Sample Software Manifest 
+ 
+ - Name of Project 
+ - Name of Package 
+ - Date 
+ - Comments 
+ - List of used code 
