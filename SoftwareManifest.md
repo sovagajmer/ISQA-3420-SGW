@@ -1,4 +1,4 @@
-#Sample Software Manifest 
+#Software Manifest 
  
  - Name of Project 
  - Name of Package 
