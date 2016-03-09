@@ -36,7 +36,8 @@ Failed End Conditions: Developer is unable to check in code. Checked in code is 
 
 Trigger: Code check in  
 
- 
+  
+  
 Use Case #2 
   
 Title: Manager checks risk database for vulnerabilities/risks
@@ -47,29 +48,32 @@ Goal in Context: Check vulnerability information for the external-source code su
     
 Stakeholders: Manager/Project Owners
  
-Preconditions: Developer has submitted files/packages to the NIST database for them to be scanned for vulnerabilities.
+Preconditions:   
+
+    -Developer has submitted files/packages to the NIST database for them to be scanned for vulnerabilities. 
+    -Vulnerabilities have been submitted to the risk database.
  
-Main Success Scenario: Manager checkes Risk Database and finds a package contains no vulnerabilities/risks.
+Main Success Scenario: Manager checkes risk database and finds a package contains no vulnerabilities/risks.
  
-Failed End Conditions: Manager checks Risk Database and finds a package contains a large number of vulnerabilities/risks.
+Failed End Conditions: Manager checks risk database and finds a package contains a large number of vulnerabilities/risks.
  
 Trigger: Management query 
  
    
 Use Case #3 
  
-Title: 
+Title: Storing risk information from NIST in the risk database
    
-Primary Actor: 
+Primary Actor: Prgrammatic Job
    
-Goal in Context: 
+Goal in Context: Store the vulnerability information from NIST and store it in the risk database.
     
-Stakeholders: 
+Stakeholders: Developer/Manager
  
-Preconditions: 
+Preconditions: Developer has submitted files/packages to the NIST database
  
-Main Success Scenario: 
+Main Success Scenario: The vulnerabilities/risks have been stored in the risk database.
  
-Failed End Conditions: 
+Failed End Conditions: The vulnerability/risk information does not make it to the database
  
-Trigger: 
+Trigger: Developer has submitted code to be checked for vulnerabilities/risks
