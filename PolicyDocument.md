@@ -1,4 +1,4 @@
-#SamplePolicyDocument 
+#Policy Document 
  
  In short, the policy is what we would apply to the results 
  
