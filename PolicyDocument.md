@@ -1,19 +1,15 @@
 #Policy Document 
- 
- In short, the policy is what we would apply to the results 
- 
-	This can be ‘made up’ by you but know where it is going to apply 
-	
-	This will include context, thresholds, and response 
 	
 Context	 
-
-	What is the context that this policy would apply?  
+	This policy is to determine if packages assessed by the NIST database will be implimented into the company. This 		policy will decide if developers will be able to use open-source code within company projects. 
 	
 Thresholds 
-
-	What are the minimum values (CVE) that need to be passed? 
+	The minimum value that any software package would need to pass is a CVSS Severity value of 6.0. 
+	 
+	
 	
 Response 
-
-	If this doesn’t pass, what do you do? 
+	A case for appeal of software package rejection can be made. A manager or developer can make a case for submission 		to the policy management team. 
+	 
+	If the appeals case does not get approved. The manager 
+	 
