@@ -1,4 +1,4 @@
-
+#Use Cases
 Use Case #1  
 
 Title: Developer commits code to be examined for vulnerabilities  
@@ -30,8 +30,8 @@ Stakeholders: Manager/Project Owners
  
 Preconditions:   
 
-    -Developer has submitted files/packages to the NIST database for them to be scanned for vulnerabilities. 
-    -Vulnerabilities have been submitted to the risk database.
+-Developer has submitted files/packages to the NIST database for them to be scanned for vulnerabilities. 
+-Vulnerabilities have been submitted to the risk database.
  
 Main Success Scenario: Manager checkes risk database and finds a package contains no vulnerabilities/risks.
  
