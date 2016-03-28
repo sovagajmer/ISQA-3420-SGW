@@ -1,23 +1,4 @@
-#Use Cases  
 
-  Text approach (no visio diagrams)
-  
- - Title 
-  
- - Primary Actor 
- 
- - Goal in Context 
- 
- - Stakeholders 
- 
- - Preconditions 
- 
- - Main Success Scenerio 
- 
- - Failed End Conditions 
- 
- - Trigger
- 
 Use Case #1  
 
 Title: Developer commits code to be examined for vulnerabilities  
@@ -34,9 +15,8 @@ Main Success Scenario: Developer checks in code and vulnerability information is
 
 Failed End Conditions: Developer is unable to check in code. Checked in code is not checked for vulnerabilities, failing to update Risk DB.  
 
-Trigger: Code check in  
+Trigger: Code check in   
 
-  
   
 Use Case #2 
   
