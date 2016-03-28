@@ -6,7 +6,7 @@
   
   Date: March 28th, 2016 
   
-  Comments: We need to use Hadoop in order to help us manage the copy useage of big data. 
+  Comments: We need to use Hadoop in order to help us manage the useage of big data. 
   
   CVE: 4.6
    
