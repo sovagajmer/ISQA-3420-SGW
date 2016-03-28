@@ -1,4 +1,4 @@
-#Software Manifest 
+#Manifest 
   
   Name of Project: Big Data Organization 
   
@@ -9,7 +9,9 @@
   Comments: We need to use Hadoop in order to help us manage the copy useage of big data. 
   
   CVE: 4.6
- 
+   
+     
+   
   Name of Package: Lumify  
   
   Date: March 28th, 2016 
