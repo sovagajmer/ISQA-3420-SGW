@@ -23,3 +23,72 @@ Manage CPE information (Daily Job):  This processes will manage daily job CPE re
 
 Manage Project Information: This process will manage project information once project summary has been submitted by corporate manager. 
 
+
+
+
+                                            Data Flows
+File:
+
+
+Package:
+
+
+Package and CPE Information:
+
+
+Package Query:
+
+
+CPE File
+
+
+CPE Request:
+
+
+CPE Response:
+
+
+CPE Information:
+
+
+Package and CPE Information:
+
+
+Package Information Request:
+
+
+Package Information Response:
+
+
+Project Info Response:
+
+
+Project Info Request:
+
+
+Policy Information Request:
+
+
+Policy Information Response:
+
+
+Project Information Summary:
+
+
+Project Information Summary:
+
+
+
+
+                                              Data Stores
+NIST CPE Information:
+
+
+Risk DB:
+
+
+Policy DB:
+
+
+
+
