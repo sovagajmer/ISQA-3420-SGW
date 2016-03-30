@@ -7,5 +7,7 @@ National Vulnerability Database:  checks code to see if there’s any vulnerabil
 
 Corporate Manger: The Corporate manager is the person to examine those known vulnerabilities of a software package/project and decides if the project passes known policy.
 
+Manifest: To provide a printable document that can be provided to vendors downstream for a software package/project. In essence, the manifest is a bill of materials that can be shared between organizations in a software supply chain.
+
 
 
