@@ -15,3 +15,5 @@ Manifest: To provide a printable document that can be provided to vendors downst
                                             
 Manage Submitted File/Package:  This Processes will manage the submitted file 
 
+Manage NIST/CPE Information: This data enables automation of vulnerability management, security measurement, and compliance
+
