@@ -11,3 +11,7 @@ Manifest: To provide a printable document that can be provided to vendors downst
 
 
 
+                                            Processes
+                                            
+Manage Submitted File/Package:  This Processes will manage the submitted file 
+
