@@ -17,3 +17,5 @@ Manage Submitted File/Package:  This Processes will manage the submitted file
 
 Manage NIST/CPE Information: This data enables automation of vulnerability management, security measurement, and compliance
 
+Manage Project Information: This processes will manage the package/project information request. 
+
