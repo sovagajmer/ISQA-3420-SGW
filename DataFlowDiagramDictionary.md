@@ -27,19 +27,19 @@ Manage Project Information: This process will manage project information once pr
 
 
                                             Data Flows
-File:
+File: An individual file within an open-source package.
 
 
-Package:
+Package: An open-source grouping of files that a developer submits into the NIST database for review.
 
 
-Package and CPE Information:
+Package and CPE Information: Information from the NIST database about the open-source package.
 
 
-Package Query:
+Package Query: The query within the NIST database that searches for information about a particular open-source package.
 
 
-CPE File
+CPE File: A file regarding information over a partricular open-source package. This is updated daily.
 
 
 CPE Request:
