@@ -20,3 +20,6 @@ Manage NIST/CPE Information: This data enables automation of vulnerability manag
 Manage Project Information: This processes will manage the package/project information request. 
 
 Manage CPE information (Daily Job):  This processes will manage daily job CPE response and send those response to NIST CPE Information.
+
+Manage Project Information: This process will manage project information once project summary has been submitted by corporate manager. 
+
