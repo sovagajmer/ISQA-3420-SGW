@@ -1,11 +1,11 @@
 #Use Cases
-Use Case #1  
+                                                      Use Case #1  
 
-Title: Developer commits code to be examined for vulnerabilities. 
+Title: Developer commits code to be examined for vulnerabilities  
 
 Primary Actor: Developer 
 
-Goal in Context: Gather vulnerability information for all external source code that is used by developers.
+Goal in Context: Gather vulnerability information for all external source code that is used by developers 
 
 Stakeholders: Developer / Manager 
 
@@ -18,9 +18,9 @@ Failed End Conditions: Developer is unable to check in code. Checked in code is 
 Trigger: Code check in   
 
   
-Use Case #2 
+                                                     Use Case #2 
   
-Title: Manager checks risk database for vulnerabilities/risks.
+Title: Manager checks risk database for vulnerabilities/risks
    
 Primary Actor: Manager
    
@@ -39,22 +39,21 @@ Failed End Conditions: Manager checks risk database and finds a package contains
  
 Trigger: Management query 
  
+   
+                                                    Use Case #3 
  
-   
-Use Case #3 
- 
-Title: Storing risk information from NIST in the risk database.
-   
-Primary Actor: Prgrammatic Job.
-   
-Goal in Context: Store the vulnerability information from NIST and store it in the risk database.
+Title: Produce Manifest
     
-Stakeholders: Developer/Manager.
+Primary Actor: Corporate Manager
+   
+Goal in Context: The goal of the context is to create and send a project information summary to be produced into a manifest.
+    
+Stakeholders: Corporate Managers/Project Managers/Future Developers
  
-Preconditions: Developer has submitted files/packages to the NIST database.
+Preconditions: Open-source packages need to have been approved by the rules within the Policy document. Information about the project is then stored in the manifest.
  
-Main Success Scenario: The vulnerabilities/risks have been stored in the risk database.
+Main Success Scenario: A Manifest is created which will help the project continue to progress in the future. It is helpful for organizational purposes and will help the project move towards completion.
  
-Failed End Conditions: The vulnerability/risk information does not make it to the database
+Failed End Conditions: A proper manifest is not created and the project struggled to progress.
  
-Trigger: Developer has submitted code to be checked for vulnerabilities/risks.
+Trigger: Open-source packages are approved by the Policy standards.
