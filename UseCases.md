@@ -56,4 +56,4 @@ Main Success Scenario: A Manifest is created which will help the project continu
  
 Failed End Conditions: A proper manifest is not created and the project struggled to progress.
  
-Trigger: Open-source packages are approved by the Policy standards
+Trigger: Open-source packages are approved by the Policy Document standards
