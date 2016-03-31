@@ -42,19 +42,19 @@ Package Query: The query within the NIST database that searches for information 
 CPE File: A file regarding information over a partricular open-source package. This is updated daily.
 
 
-CPE Request:
+CPE Request: Manage CPE Information will send request to National Vulnerability Database to check and update the information if there any risk along with it. 
 
 
-CPE Response:
+CPE Response: Once National Vulnerability Database checks and updates the information, then CPE reponse will give green light to go forward with the open source package. 
 
 
-CPE Information:
+CPE Information: This information is 
 
 
-Package and CPE Information:
+Package and CPE Information: Contains NIST/CPE Information to store in Risk DB.
 
 
-Package Information Request:
+Package Information Request: 
 
 
 Package Information Response:
@@ -70,9 +70,6 @@ Policy Information Request:
 
 
 Policy Information Response:
-
-
-Project Information Summary:
 
 
 Project Information Summary:
