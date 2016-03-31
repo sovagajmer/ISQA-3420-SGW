@@ -39,21 +39,22 @@ Failed End Conditions: Manager checks risk database and finds a package contains
  
 Trigger: Management query 
  
+ 
    
 Use Case #3 
  
-Title: Storing risk information from NIST in the risk database
+Title: Storing risk information from NIST in the risk database.
    
-Primary Actor: Prgrammatic Job
+Primary Actor: Prgrammatic Job.
    
 Goal in Context: Store the vulnerability information from NIST and store it in the risk database.
     
-Stakeholders: Developer/Manager
+Stakeholders: Developer/Manager.
  
-Preconditions: Developer has submitted files/packages to the NIST database
+Preconditions: Developer has submitted files/packages to the NIST database.
  
 Main Success Scenario: The vulnerabilities/risks have been stored in the risk database.
  
 Failed End Conditions: The vulnerability/risk information does not make it to the database
  
-Trigger: Developer has submitted code to be checked for vulnerabilities/risks
+Trigger: Developer has submitted code to be checked for vulnerabilities/risks.
