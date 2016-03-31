@@ -78,6 +78,7 @@ Project Information Summary: Once Corporate Manager have everything checked and 
 
 
                                               Data Stores
+                                              
 NIST CPE Information:This data enables automation of vulnerability management, security measurement, and compliance. NIST also includes databases of security checklists, security related software flaws, misconfigurations, product names, and impact metrics. 
 
 
