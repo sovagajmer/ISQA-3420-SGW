@@ -66,13 +66,13 @@ Project Info Request: Corporate Manager will request Package Information request
 Project Info Response: Once the Package informaiton is risk free then the Manage Package information will send project Info response to Corporate Manger.
 
 
-Policy Information Request:
+Policy Information Request: The Corporate Manager will send the Policy information request to check and see if there is any restriction on the policy regarding open source.
 
 
-Policy Information Response:
+Policy Information Response: Policy Database will send Policy Information Response to Corporate Manager.
 
 
-Project Information Summary:
+Project Information Summary: Once Corporate Manager have everything checked and the file/package is risk free then the project information summary will be sent to the Manage Project Information, similary to the Manifest. 
 
 
 
