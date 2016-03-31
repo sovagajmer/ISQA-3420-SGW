@@ -1,11 +1,11 @@
 #Use Cases
 Use Case #1  
 
-Title: Developer commits code to be examined for vulnerabilities  
+Title: Developer commits code to be examined for vulnerabilities. 
 
 Primary Actor: Developer 
 
-Goal in Context: Gather vulnerability information for all external source code that is used by developers 
+Goal in Context: Gather vulnerability information for all external source code that is used by developers.
 
 Stakeholders: Developer / Manager 
 
@@ -20,7 +20,7 @@ Trigger: Code check in
   
 Use Case #2 
   
-Title: Manager checks risk database for vulnerabilities/risks
+Title: Manager checks risk database for vulnerabilities/risks.
    
 Primary Actor: Manager
    
