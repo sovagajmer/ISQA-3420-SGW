@@ -48,22 +48,22 @@ CPE Request: Manage CPE Information will send request to National Vulnerability 
 CPE Response: Once National Vulnerability Database checks and updates the information, then CPE reponse will give green light to go forward with the open source package. 
 
 
-CPE Information: This information is 
+CPE Information: Once the CPE information is being stored in National Vulnerability Database datastore then it will send CPE information to Manage NIST/CPE Information.
 
 
 Package and CPE Information: Contains NIST/CPE Information to store in Risk DB.
 
 
-Package Information Request: 
+Package Information Request: Sends package information request to Risk Database.
 
 
-Package Information Response:
+Package Information Response: Once the package information being checked then it will send package information response to Manage Project information. 
 
 
-Project Info Response:
+Project Info Request: Corporate Manager will request Package Information request.
 
 
-Project Info Request:
+Project Info Response: Once the Package informaiton is risk free then the Manage Package information will send project Info response to Corporate Manger.
 
 
 Policy Information Request:
