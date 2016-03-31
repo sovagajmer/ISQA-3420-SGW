@@ -78,13 +78,13 @@ Project Information Summary: Once Corporate Manager have everything checked and 
 
 
                                               Data Stores
-NIST CPE Information:
+NIST CPE Information:This data enables automation of vulnerability management, security measurement, and compliance. NIST also includes databases of security checklists, security related software flaws, misconfigurations, product names, and impact metrics. 
 
 
-Risk DB:
+Risk DB: A database which is responisble for identifying, analyzing, evaluating, and controlling risk related with any open source code. 
 
 
-Policy DB:
+Policy DB: Policy Database provides a central data source for information on use of External Open source and how to use it. 
 
 
 
