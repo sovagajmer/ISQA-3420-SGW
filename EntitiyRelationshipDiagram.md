@@ -1,4 +1,4 @@
 #Entity Relationship Diagram
 
 
-![screen shot 2016-03-30 at 6 30 16 pm](https://cloud.githubusercontent.com/assets/17163760/14164271/9ec6a706-f6c3-11e5-94cd-73633dd30b2a.png)
+![final_erd](https://cloud.githubusercontent.com/assets/17163760/14500154/a640eb7e-0166-11e6-881d-96b4f3e3c14e.PNG)
